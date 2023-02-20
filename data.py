@@ -8,3 +8,9 @@ cars = {"Jeep": "Grand Cherokee",
         "GMC": "Sierra"}
 
 print(cars.get("Jeep"))
+
+
+employee = ("Dave", 43, "male", 13)
+
+print(employee[3])
+            
